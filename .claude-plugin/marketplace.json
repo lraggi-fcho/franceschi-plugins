@@ -1,0 +1,13 @@
+{
+  "name": "franceschi-plugins",
+  "owner": {
+    "name": "Franceschi Chocolate"
+  },
+  "plugins": [
+    {
+      "name": "franceschi-prospecting",
+      "source": "./plugins/franceschi-prospecting",
+      "description": "B2B prospecting pipeline for Franceschi Chocolate (US buyers of premium Venezuelan cacao)."
+    }
+  ]
+}
